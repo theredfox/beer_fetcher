@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeerFetcher</string>
+    
+    <string name="beer_item_abv">Alchool:</string>
+    <string name="beer_item_ibu">IBU:</string>
+</resources>
